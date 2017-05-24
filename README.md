@@ -1,4 +1,4 @@
-###### this is our readme file
+# this is our readme file
 ## author name: Waracci and Emmanuel
 ### project or program name: Css Tutorial 
 #### Program setup instructions: CLone into your pc and run the index.html file on your browser
